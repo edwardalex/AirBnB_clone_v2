@@ -1,0 +1,15 @@
+""" TESTING THE COMMAND LINE INTERPRETER """
+
+# Testing update command
+
+# Base Model
+
+# User Model
+
+create User
+
+show User <id>
+
+destroy User <id>
+
+update User <id> <attr> "Edward Oloo"
